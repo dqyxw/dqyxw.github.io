@@ -16,3 +16,5 @@ paginate: 4
 author: 陈嘉祁
 
 gems: [jekyll-paginate]
+
+introduction: 悲观者常常正确，乐观者才有可能成功。
