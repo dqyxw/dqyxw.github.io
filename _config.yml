@@ -4,7 +4,7 @@ email: chen807049335@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   吃啥啥不够，干啥啥不行，就学会了一张烂嘴骂人。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://dqyxw.github.io/about/m" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
