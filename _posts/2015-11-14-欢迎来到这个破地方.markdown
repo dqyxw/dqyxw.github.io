@@ -2,7 +2,7 @@
 layout: post
 title:  "你好啊!"
 date:   2019-01-21 16:52:07
-categories: jekyll update
+categories: 杂记
 tags: 杂记
 image: /images/logo.jpg
 ---
