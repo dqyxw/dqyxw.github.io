@@ -10,4 +10,4 @@ image: /images/logo.jpg
 
 
 ## 欧尼酱！吃抹茶泡芙咩！
-![Alt text](dqyxw.github.io/images/nihaoaImg/01.jpg)
+![Alt text](/images/nihaoaImg/01.jpg)
