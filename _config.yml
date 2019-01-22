@@ -1,6 +1,6 @@
 # Site settings
-name: ChenJiaQi
-title: ChenJiaqi | 陈嘉祁和他的朋友们
+name: DA_QI | 大祁
+title: CHEN | 大祁和他的朋友们
 email: chen807049335@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   吃啥啥不够，干啥啥不行。
@@ -14,7 +14,7 @@ markdown: kramdown
 
 paginate: 4
 
-author: 陈嘉祁
+author: 大祁
 
 gems: [jekyll-paginate]
 
