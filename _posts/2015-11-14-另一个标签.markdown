@@ -10,6 +10,4 @@ image: /images/pic01.jpg
 
 
 ## 欧尼酱！吃抹茶泡芙咩！
-<div align=center >
-![Alt text](/images/nihaoaImg/01.jpg =50%x50%)
-</div>
+![Alt text](/images/nihaoaImg/01.jpg ){:height="50%" width="50%" align="center"}
