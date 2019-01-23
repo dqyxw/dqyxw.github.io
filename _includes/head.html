@@ -2,28 +2,19 @@
 <header id="header">
     <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
     <nav class="links">
-        <!--
-        <ul>
-          <li><a href="#">Lorem</a></li>
-                <li><a href="#">Ipsum</a></li>
-                <li><a href="#">Feugiat</a></li>
-                <li><a href="#">Tempus</a></li>
-                <li><a href="#">Adipiscing</a></li>
-            </ul>
-      -->
+
+        <!--<ul>-->
+            <!--{% for category in site.categories %}-->
+            <!--<li><a href="#" >{{ category | first }}</a></li>-->
+            <!--{% endfor %}-->
+        <!--</ul>-->
+
     </nav>
     <nav class="main">
         <ul>
-            <!--
-                            <li class="search">
-                                <a class="fa-search" href="#search">Search</a>
-                                <form id="search" method="get" action="#">
-                                    <input type="text" name="query" placeholder="Search" />
-                                </form>
-                            </li>
-          -->
             <li class="menu">
-                <a class="fa-bars" href="#menu">Menu</a>
+
+                <a class="fa-bars" href="#menu"> 目录 </a>
             </li>
         </ul>
     </nav>
@@ -44,10 +35,10 @@
         <ul class="links">
             {% for category in site.categories %}
             <h2>{{ category | first }}</h2>
-            </span>{{ category | last | size }}</span>
+            </span>{{ category |last | size}}&nbsp; 篇</span>
             <ul class="arc-list">
-                {% for post in z.last %}
-                <li>{{ post.date | date:"%d/%m/%Y"}}<a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% for post in category.last %}
+                <li>{{ post.date | date:"%d/%m/%Y"}} &nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
                 {% endfor %}
             </ul>
             {% endfor %}
@@ -62,3 +53,5 @@
     </section>
     -->
 </section>
+
+
