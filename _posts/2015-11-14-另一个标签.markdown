@@ -10,6 +10,12 @@ image: /images/pic01.jpg
 
 
 ## 欧尼酱！吃抹茶泡芙咩！
+<center>
+    <img src="/images/nihaoaImg/01.jpg" class="blog_img">
+</center>
 
-  ![](/images/nihaoaImg/01.jpg ){:height="50%" width="50%" align="center"}
+## 吃呢！！！
 
+<center>
+    <img src="/images/pic03.jpg" class="blog_img">
+</center>
